@@ -1,0 +1,1 @@
+This repository contains a responsive clone of the popular music streaming platform, Spotify. The clone mimics the design and layout of the official Spotify website while ensuring responsiveness across different screen sizes, including mobile, tablet, and desktop views.
